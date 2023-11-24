@@ -6,27 +6,27 @@ MIOP protocol template
 
 | PREPARED BY All authors known to have contributed to the preparation of this protocol, including those who filled in the template.  | AFFILIATION | ORCID (visit https://orcid.org/ to register) | DATE |
 | ------------- | ------------- | ------------- | ------------- |
-| Saara Suominen  | IOC-UNESCO  | Content Cell | 2023-01-19 |
-| Ward Appeltans  | IOC-UNESCO  | Content Cell | yyyy-mm-dd |
-| Pieter Provoost  | IOC-UNESCO  | Content Cell | yyyy-mm-dd |
-| Fanny Douvere  | WHC-UNESCO  | Content Cell | yyyy-mm-dd |
-| Robbert Casier  | WHC-UNESCO  | Content Cell | yyyy-mm-dd |
-| Masaki Miya  | Natural History Museum and Institute, Japan  | Content Cell | yyyy-mm-dd |
-| Bruce Deagle  | CSIRO Australian National Fish Collection | Content Cell | yyyy-mm-dd |
-| Sophie von der Heyden  | University of Stellenbosch, South Africa  | Content Cell | yyyy-mm-dd |
-| Francisco Chavez  | MBARI, USA  | Content Cell | yyyy-mm-dd |
-| Dianne Gleeson  |  EcoDNA, University of Canberra, Australia | Content Cell | yyyy-mm-dd |
-| Craig Sherman  | Deakin University, Australia  | Content Cell | yyyy-mm-dd |
-| Nicolas Pade  | EMBRC, France | Content Cell | yyyy-mm-dd |
-| Kelly Goodwin  | NOAA, USA  | Content Cell | yyyy-mm-dd |
-| Ole Bjorn Brodnicke  |  Copenhagen University, Denmark | Content Cell | yyyy-mm-dd |
-| Naiara Rodriguez-Ezpeleta  | AZTI, Spain  | Content Cell | yyyy-mm-dd |
-| Pascal Hablutzel  | VLIZ, Belgium  | Content Cell | yyyy-mm-dd |
-| Julia Busch  | Common Wadden Sea Secretariat  | Content Cell | yyyy-mm-dd |
-| Kim Praebl  |  The Arctic University, Norway | Content Cell | yyyy-mm-dd |
-| Hugo Gante | KU Leuven, the Africa Museum, Belgium  | Content Cell | yyyy-mm-dd |
-| Giomar Helena Borrero-Perez  | Marine and Coastal Research Institute, Colombia  | Content Cell | yyyy-mm-dd |
-| Vanessa Yepes-Narvaez  | Marine and Coastal Research Institute, Colombia  | Content Cell | yyyy-mm-dd |
+| Saara Suominen  | IOC-UNESCO  | | 2023-01-19 |
+| Ward Appeltans  | IOC-UNESCO  | | yyyy-mm-dd |
+| Pieter Provoost  | IOC-UNESCO  |  | yyyy-mm-dd |
+| Fanny Douvere  | WHC-UNESCO  | | yyyy-mm-dd |
+| Robbert Casier  | WHC-UNESCO  |  | yyyy-mm-dd |
+| Masaki Miya  | Natural History Museum and Institute, Japan  |  | yyyy-mm-dd |
+| Bruce Deagle  | CSIRO Australian National Fish Collection |  | yyyy-mm-dd |
+| Sophie von der Heyden  | University of Stellenbosch, South Africa  | | yyyy-mm-dd |
+| Francisco Chavez  | MBARI, USA  | | yyyy-mm-dd |
+| Dianne Gleeson  |  EcoDNA, University of Canberra, Australia |  | yyyy-mm-dd |
+| Craig Sherman  | Deakin University, Australia  || yyyy-mm-dd |
+| Nicolas Pade  | EMBRC, France | | yyyy-mm-dd |
+| Kelly Goodwin  | NOAA, USA  |  | yyyy-mm-dd |
+| Ole Bjorn Brodnicke  |  Copenhagen University, Denmark |  | yyyy-mm-dd |
+| Naiara Rodriguez-Ezpeleta  | AZTI, Spain  |  | yyyy-mm-dd |
+| Pascal Hablutzel  | VLIZ, Belgium  |  | yyyy-mm-dd |
+| Julia Busch  | Common Wadden Sea Secretariat  |  | yyyy-mm-dd |
+| Kim Praebl  |  The Arctic University, Norway | | yyyy-mm-dd |
+| Hugo Gante | KU Leuven, the Africa Museum, Belgium  |  | yyyy-mm-dd |
+| Giomar Helena Borrero-Perez  | Marine and Coastal Research Institute, Colombia  | | yyyy-mm-dd |
+| Vanessa Yepes-Narvaez  | Marine and Coastal Research Institute, Colombia  |  | yyyy-mm-dd |
 
 
 ## PROTOCOL REVISION RECORD
@@ -53,11 +53,11 @@ This is a list of other protocols that are not in your folder which should be kn
 
 | EXTERNAL PROTOCOL NAME AND LINK  | ISSUER / AUTHOR Please note who authored the protocol (this may also be a company name) | ACCESS DATE This is the date you downloaded or scanned the protocol and uploaded it. |
 | ------------- | ------------- | ------------- |
-| [UNESCO eDNA expeditions field sampling booklet](https://www.unesco.org/en/edna-training-materials)  | Content Cell  | yyyy-mm-dd  |
-| UNESCO eDNA expeditions sample sheet  | Content Cell  | yyyy-mm-dd  |
-| [Sylphium eDNA kit instructions](https://drive.google.com/file/d/1UNHRrUcgGFc3nfrDWDp_b0UYfTjAHi7D/view) | Content Cell  | yyyy-mm-dd  |
-| [UNESCO eDNA expeditions instruction video](https://www.unesco.org/en/edna-training-materials)  | Content Cell  | yyyy-mm-dd  |
-| [UNESCO eDNA expeditions sample registration app](https://app.ednaexpeditions.org/)  | Content Cell  | yyyy-mm-dd  |
+| [UNESCO eDNA expeditions field sampling booklet](https://www.unesco.org/en/edna-training-materials)  | UNESCO  | yyyy-mm-dd  |
+| UNESCO eDNA expeditions sample sheet  | UNESCO   | yyyy-mm-dd  |
+| [Sylphium eDNA kit instructions](https://drive.google.com/file/d/1UNHRrUcgGFc3nfrDWDp_b0UYfTjAHi7D/view) | Sylphium  | yyyy-mm-dd  |
+| [UNESCO eDNA expeditions instruction video](https://www.unesco.org/en/edna-training-materials)  | UNESCO  | yyyy-mm-dd  |
+| [UNESCO eDNA expeditions sample registration app](https://app.ednaexpeditions.org/)  | UNESCO   | yyyy-mm-dd  |
 
 ## ACRONYMS AND ABBREVIATIONS
 
@@ -318,13 +318,13 @@ Avoid contamination especially if it is necessary to sample from shore.
 
 Care should be taken especially at the step of adding the preservation liquid. Because the preservation liquid is added to a closed filter, a little bit of pressure builds up in the filter. It is very important that the preservation liquid is added from the correct end (the bottom end) of the filter, so that the flow of the liquid is the same as the flow of the sampled water, in the direction of the arrow. After adding the preservation liquid some air should be sucked out with the syringe before the small syringe is removed to avoid any  of the preservation liquid coming out of the filter due to the pressure build-up. 
 
+### **Failure of the two-way valve**
+
+We noticed that some of the two-way valves provided in the sampling kits were leaking air, and were therefore not so effective. In this case the extra cap can be used to close the outlet the valve when filtering water through the filter and inlet of the valve. This will close the system and result in more effective filtering. 
 
 # REFERENCES
 
-Insert all references cited in the document.
-Please insert full DOI address when available, e.g. http://doi.dx.org/10.1007/s11258-014-0404-1
-
 # APPENDIX A: DATASHEETS
 
-Link templates (e.g. preformatted spreadsheets) used to record measurements and report on the quality of the data as well as any documents such as manufacturer specifications, images, etc that support this protocol. Please include a short note describing the document's relevance. 
+
 
